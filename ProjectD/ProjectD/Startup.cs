@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Threading.Tasks;
 using DataAccess;
@@ -10,6 +11,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Pomelo.EntityFrameworkCore.MySql; 
 
 namespace ProjectD
 {
@@ -24,10 +26,10 @@ namespace ProjectD
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
-        {
+        {   
             services.AddControllersWithViews();
-            services.AddDbContext<DataDbContext>(options => 
-                options.UseMySQL(Configuration.GetConnectionString("Default")));
+            services.AddDbContext<DataDbContext>(options =>
+                options.UseMySql(Configuration.GetConnectionString("Default"), ServerVersion.AutoDetect(Configuration.GetConnectionString("Default"))));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

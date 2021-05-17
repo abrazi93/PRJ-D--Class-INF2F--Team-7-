@@ -3,3 +3,12 @@ C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\DataAccess\bin\Debug
 C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\DataAccess\obj\Debug\netstandard2.1\DataAccess.csprojAssemblyReference.cache
 C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
 C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfo.cs
+C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\DataAccess\bin\Debug\netstandard2.1\DataAccess.deps.json
+C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\DataAccess\bin\Debug\netstandard2.1\DataAccess.dll
+C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\DataAccess\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\DataAccess\obj\Debug\netstandard2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfo.cs
+C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\DataAccess\obj\Debug\netstandard2.1\DataAccess.dll
+C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\DataAccess\obj\Debug\netstandard2.1\DataAccess.pdb
