@@ -1,0 +1,7 @@
+C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\ProjectD.csprojAssemblyReference.cache
+C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\ProjectD.AssemblyInfoInputs.cache
+C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\ProjectD.AssemblyInfo.cs
+C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\ProjectD.RazorAssemblyInfo.cache
+C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\ProjectD.RazorAssemblyInfo.cs
+C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\ProjectD.TagHelpers.input.cache
+C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\ProjectD.TagHelpers.output.cache
