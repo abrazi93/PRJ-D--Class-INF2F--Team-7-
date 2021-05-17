@@ -28,14 +28,14 @@ namespace DataAccess
         }
         public class TrainingSchedule
         {
-            [Key] //temp
+            public int Id { get; set; }
             public string CardioTraining { get; set; }
             public int DaysN { get; set; }
             public int ProfileId { get; set; }
         }
         public class Measurement
         {
-            [Key] //temp
+            public int Id { get; set; }
             public int MaxHR { get; set; }
             public int RestHR { get; set; }
             public int Vo2Max { get; set; }
@@ -43,23 +43,26 @@ namespace DataAccess
         }
         public class Cycling
         {
-            [Key] //temp
+            public int Id { get; set; }
             public string CardioTraining { get; set; }
             public int DaysN { get; set; }
             public int KM { get; set; }
+            public int TrainingScheduleId { get; set; }
         }
         public class RopeSkipping
         {
-            [Key] //temp
+            public int Id { get; set; }
             public string CardioTraining { get; set; }
             public int DaysN { get; set; }
+            public int TrainingScheduleId { get; set; }
         }
         public class Running
         {
-            [Key] //temp
+            public int Id { get; set; }
             public string CardioTraining { get; set; }
             public int DaysN { get; set; }
             public int KM { get; set; }
+            public int TrainingScheduleId { get; set; }
         }
     }
 
