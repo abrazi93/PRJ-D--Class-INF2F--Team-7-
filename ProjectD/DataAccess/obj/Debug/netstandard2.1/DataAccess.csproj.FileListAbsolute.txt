@@ -1,5 +1,0 @@
-C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\DataAccess\bin\Debug\netstandard2.1\DataAccess.deps.json
-C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\DataAccess\bin\Debug\netstandard2.1\DataAccess.dll
-C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\DataAccess\obj\Debug\netstandard2.1\DataAccess.csprojAssemblyReference.cache
-C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
-C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfo.cs
