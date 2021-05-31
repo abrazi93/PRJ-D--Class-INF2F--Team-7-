@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Configuration;
 using System.Linq;
 using System.Threading.Tasks;
-using DataAccess;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -28,8 +27,6 @@ namespace ProjectD
         public void ConfigureServices(IServiceCollection services)
         {   
             services.AddControllersWithViews();
-            services.AddDbContext<DataDbContext>(options =>
-                options.UseMySql(Configuration.GetConnectionString("Default"), ServerVersion.AutoDetect(Configuration.GetConnectionString("Default"))));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

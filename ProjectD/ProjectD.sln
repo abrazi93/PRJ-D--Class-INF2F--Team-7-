@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectD", "ProjectD\ProjectD.csproj", "{B543232B-8782-4E4F-917D-19E28A27D857}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{F20D5888-C788-421F-A590-7258B8EE4C31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectD", "ProjectD\ProjectD.csproj", "{B543232B-8782-4E4F-917D-19E28A27D857}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{B543232B-8782-4E4F-917D-19E28A27D857}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B543232B-8782-4E4F-917D-19E28A27D857}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B543232B-8782-4E4F-917D-19E28A27D857}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F20D5888-C788-421F-A590-7258B8EE4C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F20D5888-C788-421F-A590-7258B8EE4C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F20D5888-C788-421F-A590-7258B8EE4C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F20D5888-C788-421F-A590-7258B8EE4C31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

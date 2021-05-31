@@ -6,32 +6,20 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using ProjectD.Models;
-using DataAccess;
-using static DataAccess.DataDbContext;
+
 
 namespace ProjectD.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private DataDbContext _context;
 
-        public HomeController(ILogger<HomeController> logger, DataDbContext context)
+        public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
-            _context = context;
         }
 
         public IActionResult Index()
-        {
-            //TEST CODE
-            var re = new Running() { CardioTraining = "fd", DaysN = 5, KM = 10 };
-            _context.Add(re);
-            _context.SaveChanges();
-            return View();
-        }
-
-        public IActionResult Privacy()
         {
             return View();
         }

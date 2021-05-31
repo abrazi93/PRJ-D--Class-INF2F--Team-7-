@@ -64,12 +64,7 @@ C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\n
 C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\DataAccess.dll
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\DataAccess.pdb
 C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\ProjectD.csprojAssemblyReference.cache
 C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\ProjectD.AssemblyInfoInputs.cache
 C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\ProjectD.AssemblyInfo.cs
@@ -87,7 +82,6 @@ C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\n
 C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\Razor\Views\UserProfile\UserProfile.cshtml.g.cs
 C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\ProjectD.RazorTargetAssemblyInfo.cache
@@ -97,21 +91,8 @@ C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\n
 C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\ProjectD.dll
 C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\ProjectD.pdb
 C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\ProjectD.genruntimeconfig.cache
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
 C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\MySqlConnector.dll
 C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
-C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\ProjectD.deps.json
 C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\ProjectD.runtimeconfig.json
 C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\bin\Debug\netcoreapp3.1\ProjectD.runtimeconfig.dev.json
@@ -146,3 +127,4 @@ C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\n
 C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\ProjectD.dll
 C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\ProjectD.pdb
 C:\Users\APaul\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\ProjectD.genruntimeconfig.cache
+C:\Users\audri\Desktop\PRJ-D--Class-INF2F--Team-7-\ProjectD\ProjectD\obj\Debug\netcoreapp3.1\Razor\Views\Training\Trainingen.cshtml.g.cs
