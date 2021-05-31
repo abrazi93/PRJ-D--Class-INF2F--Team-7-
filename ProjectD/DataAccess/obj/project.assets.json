@@ -1288,26 +1288,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\audri\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\APaul\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\audri\\Desktop\\PRJ-D--Class-INF2F--Team-7-\\ProjectD\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\APaul\\Desktop\\PRJ-D--Class-INF2F--Team-7-\\ProjectD\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\audri\\Desktop\\PRJ-D--Class-INF2F--Team-7-\\ProjectD\\DataAccess\\DataAccess.csproj",
-      "packagesPath": "C:\\Users\\audri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\audri\\Desktop\\PRJ-D--Class-INF2F--Team-7-\\ProjectD\\DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\APaul\\Desktop\\PRJ-D--Class-INF2F--Team-7-\\ProjectD\\DataAccess\\DataAccess.csproj",
+      "packagesPath": "C:\\Users\\APaul\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\APaul\\Desktop\\PRJ-D--Class-INF2F--Team-7-\\ProjectD\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\audri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\APaul\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1320,7 +1319,6 @@
       },
       "frameworks": {
         "netstandard2.1": {
-          "targetAlias": "netstandard2.1",
           "projectReferences": {}
         }
       },
@@ -1332,7 +1330,6 @@
     },
     "frameworks": {
       "netstandard2.1": {
-        "targetAlias": "netstandard2.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -1368,7 +1365,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
